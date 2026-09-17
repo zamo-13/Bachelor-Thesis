@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python C:/Users/MoZa/AppData/Local/Temp/claude/c--Users-MoZa-Documents-Repository-Bachelore-Thesis/bac6f92d-d239-4f2c-aea4-19958c9007a1/scratchpad/run_cells.py C:/Users/MoZa/Documents/Repository/Bachelore-Thesis/data_prep.ipynb 2,26,28)"
+    ]
+  }
+}
